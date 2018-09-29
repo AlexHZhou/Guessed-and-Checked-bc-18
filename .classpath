@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="examplefuncsplayer-java"/>
+	<classpathentry kind="src" path="JavaKnight"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/alexx/OneDrive/Programming/bc18-scaffold-master/battlecode.jar"/>
 	<classpathentry kind="output" path="bin"/>
